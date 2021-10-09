@@ -12,7 +12,7 @@ params:
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Ryan Wang, a Masters in Financial Analysis student at London Business School
   blog: {}
-  contact: +44 7743 345 209
+  contact: 
     address:
       - city: London, England W2 1BH
         country: UK
@@ -25,17 +25,17 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: 0 (7743) 345-209 x1234
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Masters in Financial Analysis
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Ryan
     enable: yes
     quicklinks:
       - alt: HTML5 UP
