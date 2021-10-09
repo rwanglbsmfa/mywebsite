@@ -1,6 +1,6 @@
 baseURL: https://ryanwanglbsmfa.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Ryan Wang
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,18 +10,18 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Ryan Wang, a Masters in Financial Analysis student at London Business School
   blog: {}
-  contact:
+  contact: +44 7743 345 209
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, England W2 1BH
+        country: UK
+        street: 12 Hermitage Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: rwang.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
