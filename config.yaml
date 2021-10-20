@@ -8,8 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      This is a record of my fruitful recruiting season!
-    title: I am Ryan Wang 王淏宇, a student at London Business School and future banker.
+      A brief professional introduction of myself.
+    title: I am Ryan Wang 王淏宇, a Chinese student at London Business School and future banker.
   blog: {}
   contact: 
     address:
