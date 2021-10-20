@@ -1,7 +1,7 @@
 baseURL: https://ryanwanglbsmfa.netlify.app/
 languageCode: en-us
 title: Portfolio website for Ryan Wang
-theme: Forty
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
