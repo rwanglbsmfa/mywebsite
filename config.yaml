@@ -80,26 +80,26 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: London Business School
-        title: Education 
-        url: blogs/lbs
-      - image: resume.jpg
-        subtitle: Investment Banking Recruitment
-        title: My Resume
-        url: blogs/resume
-      - image: ph.jpg
+       - image: lbs.jpg
+         subtitle: London Business School
+         title: Education 
+         url: blogs/lbs
+       - image: resume.jpg
+         subtitle: Investment Banking Recruitment
+         title: My Resume
+         url: blogs/resume
+       - image: ph.jpg
 #        subtitle: Lorem Etiam Nullam
-        title: Professional Headshot
-        url: blogs/ph
-      - image: corporate.jpg
-        subtitle: Past experience and future plans
-        title: Career
-        url: blogs/corporate
-#      - image: pic05.jpg
-#        subtitle: Ipsum Dolor Sit Amet
-#       title: Consequat
-#        url: blogs/ipsum
+         title: Professional Headshot
+         url: blogs/ph
+       - image: corporate.jpg
+         subtitle: Past experience and future plans
+         title: Career
+         url: blogs/corporate
+       - image: pic05.jpg
+         subtitle: Risk and Return Analysis
+         title: R Project
+         url: blogs/risk_return
 #      - image: pic06.jpg
 #        subtitle: Feugiat Amet Tempus
 #        title: Etiam
