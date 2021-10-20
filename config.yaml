@@ -1,16 +1,15 @@
 baseURL: https://ryanwanglbsmfa.netlify.app/
 languageCode: en-us
 title: Portfolio website for Ryan Wang
-theme: Coder
+theme: Forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Ryan Wang, a Masters in Financial Analysis student at London Business School
+      This is a record of my fruitful recruiting season!
+    title: I am Ryan Wang, a student at London Business School and future banker.
   blog: {}
   contact: 
     address:
@@ -60,54 +59,54 @@ params:
   image: ''
   name: Ryan Wang
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button1:
+#      - name: Get Started
+#        url: blogs
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
-      - name: Home
+      - name: Back to Homepage
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Blogs
+#        url: blogs
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: forty
+    subtitle: By Ryan Wang
+    title: Professional Website
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: lbs.jpg
+        subtitle: London Business School
+        title: Education 
+        url: blogs/lbs
+      - image: resume.jpg
+        subtitle: Investment Banking Recruitment
+        title: My Resume
+        url: blogs/resume
+      - image: ph.jpg
+#        subtitle: Lorem Etiam Nullam
+        title: Professional Headshot
+        url: blogs/ph
+      - image: corporate.jpg
+        subtitle: Past experience and future plans
+        title: Career
+        url: blogs/corporate
+#      - image: pic05.jpg
+#        subtitle: Ipsum Dolor Sit Amet
+#       title: Consequat
+#        url: blogs/ipsum
+#      - image: pic06.jpg
+#        subtitle: Feugiat Amet Tempus
+#        title: Etiam
+#        url: blogs/ipsum
   two:
-    buttonText: Get Started
-    enable: yes
+#    buttonText: Get Started
+#    enable: yes
     subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
       condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia

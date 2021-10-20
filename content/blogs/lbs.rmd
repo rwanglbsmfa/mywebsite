@@ -1,0 +1,16 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
+  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
+  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
+  consequat tincidunt. Vivamus et sagittis tempus.
+draft: false
+image: edu.jpg
+keywords: ""
+slug: lbs
+title: Education
+---
+I graduated with a First Class Honours in BSc (Hons) Philosophy, Politics, Economics from King's College London before joining London Business School. I also recieved scholarships to exchange in the US and Australia, winning King’s Global Ambassador Award 2021 (1%).
