@@ -96,10 +96,10 @@ params:
          subtitle: Past experience and future plans
          title: Career
          url: blogs/corporate
-       - image: pic05.jpg
-         subtitle: Risk and Return Analysis
-         title: R Project
-         url: blogs/risk_return
+#       - image: pic05.jpg
+#         subtitle: Risk and Return Analysis
+#         title: R Project
+#         url: blogs/risk_return
 #      - image: pic06.jpg
 #        subtitle: Feugiat Amet Tempus
 #        title: Etiam
